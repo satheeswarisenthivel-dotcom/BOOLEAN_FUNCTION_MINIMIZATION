@@ -39,7 +39,17 @@ Developed by: S.SATHEESWARI
 RegisterNumber:25017493
 
 ```
+module ppt(
+    input  wire A,
+    input  wire B,
+    input  wire C,
+    input  wire D,
+    output wire F
+);
 
+assign F = (~A & B) | (C & D) | (A & ~D);
+
+endmodule
 
 ```
 
@@ -50,6 +60,10 @@ RegisterNumber:25017493
 
 
 **RTL**
+
+
+<img width="741" height="335" alt="Screenshot 2025-11-24 084530" src="https://github.com/user-attachments/assets/501c3afc-e729-4e6c-9f9a-0d3f374e8912" />
+
 
 
 **Timing Diagram**
