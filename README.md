@@ -46,7 +46,7 @@ RegisterNumber:25017493
 **RTL realization Output:**
 
 
-<img width="1920" height="1020" alt="Screenshot 2025-11-14 094621" src="https://github.com/user-attachments/assets/379dd70a-70a7-442c-8362-a4e1257ac15b" />
+<img width="1520" height="826" alt="Screenshot 2025-11-19 090912" src="https://github.com/user-attachments/assets/85830898-ff89-415a-8dbb-95a63b91c748" />
 
 
 **RTL**
